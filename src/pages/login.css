@@ -1,0 +1,18 @@
+/* .body{
+    background-color: red;
+} */
+.Login{
+    align-items:center;
+    height:410px;
+    width: 400px;
+    padding: 0px 35px 10px;
+    background-color:#263159;
+    border-radius: 10px;
+    top:140px ;
+    left: 555px;
+    position: relative;
+}
+
+.label{
+    color: black;
+}
